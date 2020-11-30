@@ -11,4 +11,7 @@ Functions:
 3. write_EEPROM(): write on eeprom memory
 4. Read_EEPROM(): read from eeprom memory
 
+Reference:
+
+https://www.arduino.cc/en/Reference/EEPROM
 
