@@ -1,4 +1,4 @@
-#Arduino EEPROM read write API Example
+# Arduino EEPROM read write API Example
 
 
 The microcontroller on the Arduino and Genuino AVR based board has EEPROM: memory whose values are kept when the board is turned off (like a tiny hard drive). EEPROM library enables you to read and write those bytes. This repository provides an example of using the EEPROM to store and retrieve information.
